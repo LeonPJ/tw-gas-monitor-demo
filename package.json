@@ -1,0 +1,20 @@
+{
+  "name": "gas-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leon",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "linebot": "^1.4.1",
+    "moment": "^2.22.2",
+    "mongoose": "^5.2.0",
+    "request": "^2.87.0"
+  }
+}
