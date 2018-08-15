@@ -96,8 +96,21 @@ bot.on('message', function(event){
             });
           break;
 
+          /*case 'say':
+              request.get('https://gas.goodlife.tw/', function(err,res,data){
+                $ = cheerio.load(data);// cheerio 載入html內文, 並儲存至data
+                var predprice = $('.main P').text() + $('.main h2').text();
+                User.find(function(err, users) {
+                  for (var index in users) {
+                    var userinf = users[index];
+                    bot.push(userinf.userId, "您好!!感謝使用此BOT，透過查看更多資訊，新增了 意見調查 與 查看原始碼 功能，歡迎填寫表單提供意見");
+                  }
+                });
+              });
+            break;*/
+
         default:
-          event.reply("週日、週日晚上6點自動推波下周油價");
+          event.reply("週五、週日晚上6點自動推波下周油價");
           break;
       }
       break;
