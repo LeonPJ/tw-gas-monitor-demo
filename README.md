@@ -1,11 +1,12 @@
 # 油價 x Line Chat Bot x Node.js x Heroku
-<img src="img/demo0.png" width="400"><br />
+<img src="img/demo0.jpg" width="400"><br />
 透過圖文選單可以點選
 *   即時油價
 *   下周油價
 *   意見調查
 *   see more code
-<img src="img/demo1.png" width="400"><br />
+<br />
+<img src="img/demo1.jpg" width="400"><br />
 執行結果<br />
 
 ## 關於油價 Bot
