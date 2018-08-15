@@ -6,7 +6,7 @@
 *   意見調查
 *   see more code
 <br />
-<img src="img/demo1.jpg" width="400"><br />
+<img src="img/demo1.jpg" width="400">
 執行結果<br />
 
 ## 關於油價 Bot
