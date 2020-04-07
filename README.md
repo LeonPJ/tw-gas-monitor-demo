@@ -33,7 +33,3 @@
 *   moment : 2.22.2 <br />
 *   mongoose : 5.2.0 <br />
 *   request : 2.87.0 <br />
-
-### 補充
-如果對於此程式有任何疑問或是建議的歡迎填寫問卷 謝謝!!
-[This link](https://docs.google.com/forms/d/1SKmggTwMEnMfcWS0oGxE2n6gixcUm63ZIOUN8DByMw4/edit)
